@@ -4,18 +4,18 @@ The code(in src folder) can be copied to arduino ide and used there
 
 light output-
 
-light1-pin 5
-light2-pin 3
-light3-pin 10
-light4-pin 7
+light1-pin 5;
+light2-pin 3;
+light3-pin 10;
+light4-pin 7;
 
 Encoder Pins-
 
-button-pin 2
-CLK-pin 8
-DT-pin 9
+button-pin 2;
+CLK-pin 8;
+DT-pin 9;
 
 LCD Pins-
 
-SDA-pin A4
-SLC-pin A5
+SDA-pin A4;
+SLC-pin A5;
